@@ -1,4 +1,4 @@
-## Panorama NSX-T plugin configurator##
+## Panorama NSX-T plugin configurator ##
 Skillet to configure Panorama NSX-T plugin.
 The skillet will configure both service definition and service manager sections. 
 
